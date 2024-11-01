@@ -1,0 +1,32 @@
+#contenitore_orizzontale {
+	position:relative;	
+	padding:0;
+	width: 560px;
+	height: 150px;
+	border:hidden 1px;
+	align:center;
+}
+
+#contenitore_verticale {
+	position:relative;	
+	padding:0;
+	width: 60px;
+	border:hidden 1px;
+	align:center;
+}
+
+.allinea_a_destra {
+	floar:right;
+	margin-left:10px;
+}
+
+.allinea_a_sinistra {
+	floar:left;
+	margin-right:10px;
+}
+
+.oggetti {
+	float:left;
+	margin-right:12px;
+
+}
